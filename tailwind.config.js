@@ -1,0 +1,30 @@
+module.exports = {
+    future: {
+        // removeDeprecatedGapUtilities: true,
+        // purgeLayersByDefault: true,
+    },
+    purge: [],
+    theme: {
+        colors: {
+            green: '#30AAA4',
+            white: '#ffffff',
+            pink:   '#FDE7E9',
+            yellow: '#F8B030',
+            white:  '#FFFFFF',
+            red:    '#EE2E3D',
+            lightred: '#FF0000',
+            blue:   '#F7FCFC',
+            gray:   '#F5F5F5',
+            lightgray: '#1D1D1D',
+            black:  '#2B2B2B',
+            blackfade:   '#333333',
+            lightblack: '#6A6A6A',
+            lighterblack: '#858A8F',
+            fade:  '#818181',
+            blackdark: '#191919',
+            darkwhite: '#F6F6F6',
+        },
+    },
+    variants: {},
+    plugins: [],
+}
