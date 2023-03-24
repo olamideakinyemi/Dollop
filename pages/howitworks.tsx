@@ -54,7 +54,7 @@ function Howitworks() {
           <div className="">
             <Styledh2 className="font-bold">Bi- weekly Messaging</Styledh2>
             <StyledDiv>
-             <p>Receive bi-weekly messages from<br /> EMAWI with three (3) possible<br /> causes you can donate to.</p>
+             <p>Receive bi-weekly messages from<br /> Dollop with three (3) possible<br /> causes you can donate to.</p>
             </StyledDiv>
           </div>
       </div>

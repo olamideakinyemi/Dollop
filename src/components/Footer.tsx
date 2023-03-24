@@ -88,7 +88,7 @@ const Footer = () => {
         </div>
       </div>
       <Styledh5 className="text-center mt-24">
-          <p>2020 Copyright.<Styledspan className="font-semibold">Emawi</Styledspan></p>
+          <p>2020 Copyright.<Styledspan className="font-semibold">Dollop</Styledspan></p>
           <p>Fusce at nisi eget dolor rhoncus facilisis. Mauris ante nisl, consectetur et luctus et, porta ut dolor.</p>
       </Styledh5>
     </div>

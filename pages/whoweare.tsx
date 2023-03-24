@@ -8,7 +8,7 @@ function Whoweare() {
       <div className="mx-32 my-40">
         <img className="w-12" src="/img/redcircle.png" alt="/" />
         <h1 className="text-4xl font-bold text-black ml-8 -mt-8">
-          Hey, We are <span className="text-yellow">Emawi</span>
+          Hey, We are <span className="text-yellow">Dollop</span>
         </h1>
         <p className="text-lightblack text-xs ml-8 mt-4">
           A non-profit amplifying genuine crowdfunding campaigns.

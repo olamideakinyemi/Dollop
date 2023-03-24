@@ -38,7 +38,7 @@ const NavBar = () => {
         <StyledDiv className='bg-white w-full fixed top-0 py-6 md:py-4'>
             <div className='w-10/12 mx-auto md:flex items-center justify-between h-full'>
                 <div className='md:w-auto w-full flex items-center justify-between'>
-                    <img className='w-32 h-auto' src='/img/logo.png' alt='logo' />
+                    <img className='w-20 h-auto' src='/img/logo.png' alt='logo' />
                     <div className='md:hidden block'>
                         {!isNavOpen ? (
                             <div onClick={() => setIsNavOpen(true)}>
